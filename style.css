@@ -1,0 +1,227 @@
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+
+#nike{
+    background-color: #F7F7F7;
+}
+
+.container{
+    background-color: white;
+}
+#jordan{
+    height: 25px;
+    width: 25px;
+}
+
+#con{
+    height: 25px;
+    width: 25px;
+    padding-left: 5px;
+}
+
+#air{
+    height:78.47px;
+    width: 78.47px;
+    padding-right: 5px;
+}
+
+#search{
+    height: 25px;
+    width: 25px;
+    
+}
+
+#bag{
+    height: 30px;
+    width: 30px;
+    padding-left: 2px;
+}
+
+#vid{
+    height: 1519.2px;
+    width: 1519.2px;
+}
+
+.bold-text{
+    text-align: center;
+    font-weight: bold;
+}
+
+.normal{
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.center{
+    text-align: center;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    width: 200px;
+    
+}
+
+.centers{
+    text-align: center;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    width: 200px;
+}
+
+#col{
+    height: 1600px;
+    width:  1600px;
+}
+
+#child{
+    height: 1600px;
+    width:  1600px;
+}
+
+.bold-text-2{
+    text-align: center;
+}
+
+#click{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    width: 200px;
+}
+
+#image-fluent{
+    width: 759px;
+    height: 759px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-left: 0px;
+}
+
+#sports{
+    width: 759px;
+    height: 759px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-left: 0px;
+}
+
+#boots{
+    width: 759px;
+    height: 759px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-left: 0px;
+}
+
+#mic{
+    width: 759px;
+    height: 759px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-left: 0px;
+}
+
+#airforce{
+    background-color: white;
+    padding: 15px;
+    border-radius: 50px;
+    position: absolute;
+    top: 10px;
+    
+}
+
+.item  {
+    display: flex;
+}
+
+.web{
+     width: 50%;
+
+}
+
+.shoes{
+    padding-top: 50px;
+    margin-left: 48px;
+    margin-right: 48px;
+    display: flex;
+}
+
+.container{
+    grid-template-columns: 0% 0px;
+}
+
+#max{
+    background-color: white;
+}
+
+#win .card-img-overlay{
+    top: unset;
+    bottom: 0;
+  }
+
+  #card{
+    text-align: center;
+    border-radius: 40px;
+    background-color: #ffffff;
+    color: #000000;
+    width: 100px;
+}
+
+#icard{
+    text-align: center;
+    border-radius: 40px;
+    background-color: #ffffff;
+    color: #000000;
+    width: 100px;
+}
+
+#idcard{
+    text-align: center;
+    border-radius: 40px;
+    background-color: #ffffff;
+    color: #000000;
+    width: 100px;
+}
+
+#idcards{
+    text-align: center;
+    border-radius: 40px;
+    background-color: #ffffff;
+    color: #000000;
+    width: 100px;
+}
+
+.owl-carousel owl-theme{
+    padding-top: 25px;
+    
+}
+   
+  
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev{
+    width: 48px;
+    height: 48px;
+    background: white;
+    color: black;
+    font-size: 32px;
+    position: absolute;
+    top: calc(50% - 24px);
+    border-radius: 50%;
+    left: 100px;
+}
+
+.owl-carousel .owl-nav button.owl-next{
+    left: unset;
+    right: 100px;
+}
+
+.foot{
+    padding-left: 100
+    px;
+}
+
